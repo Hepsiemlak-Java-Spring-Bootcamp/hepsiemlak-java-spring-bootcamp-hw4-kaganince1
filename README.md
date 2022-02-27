@@ -59,6 +59,10 @@ Mesajlar için de gerçeklemeler yapıldı uzun olmasın diye sadece getall ekli
 operasyonları gerçekleştirilmektedir. Bu uygulama içerisine Advert entity de oluşturun yine CRUD 
 operasyonlarını gerçekleştiren kodu yazın.(10 PUAN)
 
+![image](https://user-images.githubusercontent.com/71889416/155884017-79009e7f-6dcc-4ae6-9443-9dedf052e3dc.png)
+![image](https://user-images.githubusercontent.com/71889416/155884012-bc7d212e-7c92-4ebf-a387-acf0608e629f.png)
+
+
   b) JDBC, JdbcTempalete ve Hibernate ile CRUD operasyonlarını karşılaştıran makaleyi 
 yazın.(5 PUAN) 
 (PDF olarak eklendi)
